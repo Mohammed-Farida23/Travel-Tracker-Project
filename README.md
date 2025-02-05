@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 
 Contact
 If you have any questions or feedback, feel free to contact me:
-. 📧 Email: faridamohammed@example.com
+. 📧 Email: mohammedfarida1605@gmail.com
 . 🌐 GitHub: @Mohammed-Farida23
 
 
